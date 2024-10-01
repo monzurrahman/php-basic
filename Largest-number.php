@@ -1,5 +1,5 @@
 <?php
-// find the largest number from some given numbers like: 2,5,1,10
+// find the largest number from some given numbers like: 2,5,1,10  ; For the smalles number just replace > by <
 $arr = array(2,5,1,10);
 $largest;
 for ($i =0; $i<(sizeof($arr)-1); $i++){
